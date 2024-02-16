@@ -8,5 +8,8 @@ calc.Multi(10.5, 12.5);
 Console.WriteLine("Division Call");
 calc.Div(20,4);
 Console.WriteLine("Sub Call");
-calc.Sub(10.5, 12.5);
+calc.Sub(20, 40);
+Console.WriteLine("Average Call Call");
+calc.Avg(24, 12);
+
 
